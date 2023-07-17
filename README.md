@@ -8,4 +8,4 @@ This implementation assumes really small memory pages (120 bytes), as a requirem
 This implementation currently supports only search and insertion, deletion is to be implmented in the future. 
 Root Node split 1:2, any other nodes split 2:3 (as a standard B* Tree).  
 
-The page size should be modifiable by changes some defines.
+The page size should be modifiable by changing some defines.
